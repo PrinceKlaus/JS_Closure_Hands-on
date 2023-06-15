@@ -1,0 +1,23 @@
+body{
+    background-color:red;
+}
+p{
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    font-family: system-ui;
+    color: orange;
+}
+
+h3{
+    color: yellow;
+}
+
+div{
+    color: coral;
+}
+
+pre{
+    color: yellow;
+}
